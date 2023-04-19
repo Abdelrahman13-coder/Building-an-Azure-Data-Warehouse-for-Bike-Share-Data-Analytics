@@ -5,11 +5,11 @@ Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to p
 
 ### **Task 1:** Create your Azure resources
 * Azure Database for PostgresSQL
-* Azure Storage Account
 * Azure Synapse workspace
 * Azure Synapse SQL Dedicated Pool
 
-![image](https://user-images.githubusercontent.com/58150666/233215441-8f153cda-5cc4-400d-a3f2-bc6727c5242b.png)
+![image](https://user-images.githubusercontent.com/58150666/233221473-8bebc2d0-879b-4766-9e55-0d71b51bdfe2.png)
+
 
 
 
