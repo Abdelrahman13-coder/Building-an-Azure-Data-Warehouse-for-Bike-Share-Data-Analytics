@@ -19,6 +19,11 @@ Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to p
 
 ### **Task 4:** EXTRACT the data from PostgresSQL
 
+![image](https://user-images.githubusercontent.com/58150666/233222501-1301f11b-21bc-4541-8b9a-d8a017c896fb.png)
+
+![image](https://user-images.githubusercontent.com/58150666/233222675-5c7f8fe7-70b9-4aa3-8527-7a08e275aee1.png)
+
+
 ### **Task 5:** LOAD the data into external tables in the data warehouse
 
 ### **Task 6:** TRANSFORM the dat to the star schema using CETAS
