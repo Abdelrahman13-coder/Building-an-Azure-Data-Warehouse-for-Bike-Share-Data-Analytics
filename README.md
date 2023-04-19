@@ -14,3 +14,6 @@ Divvy is a bike sharing program in Chicago, Illinois USA that allows riders to p
 #### **Task 5:** LOAD the data into external tables in the data warehouse
 
 #### **Task 6:** TRANSFORM the dat to the star schema using CETAS
+
+
+[How do locate tables have created on PostgreSQL database.\(https://knowledge.udacity.com/questions/952800)
