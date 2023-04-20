@@ -31,7 +31,7 @@ Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)
 * Azure Synapse workspace
 * Azure Synapse SQL Dedicated Pool
 
-![image](https://user-images.githubusercontent.com/58150666/233221473-8bebc2d0-879b-4766-9e55-0d71b51bdfe2.png)
+![image](https://user-images.githubusercontent.com/58150666/233466281-33a244db-fe86-4593-8b2f-aa35fbaafac2.png)
 
 
 ### **Task 2:** Design a star schema
@@ -40,6 +40,9 @@ Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)
 
 
 ### **Task 3:** Create the data in PostgresSQL
+
+![image](https://user-images.githubusercontent.com/58150666/233461083-18fcd7d3-ad3f-4525-8a2c-fb83a8b7e04e.png)
+
 
 ### **Task 4:** EXTRACT the data from PostgresSQL
 
