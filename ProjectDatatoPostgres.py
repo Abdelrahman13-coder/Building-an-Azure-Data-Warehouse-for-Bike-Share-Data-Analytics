@@ -6,7 +6,7 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 ########################################
 host = "postgres-abdelrahman.postgres.database.azure.com"
 user = "abdelrahman"
-password = "A.r.t.mlmfao13"
+password = "**********"
 
 # Create a new DB
 sslmode = "require"
