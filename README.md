@@ -60,3 +60,5 @@ Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)
 
 
 [How do locate tables have created on PostgreSQL database.](https://knowledge.udacity.com/questions/952800)
+
+[Smart draw](https://cloud.smartdraw.com/editor.aspx?templateId=d1553a61-d98e-4aa1-a5bc-11a11876ea36&flags=128#)
