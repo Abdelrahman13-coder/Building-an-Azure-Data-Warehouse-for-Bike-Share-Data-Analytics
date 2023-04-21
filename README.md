@@ -53,6 +53,9 @@ Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)
 
 ### **Task 5:** LOAD the data into external tables in the data warehouse
 
+![image](https://user-images.githubusercontent.com/58150666/233643993-f2f8d094-6bb9-4c85-ad50-22ce8f6691a8.png)
+
+
 ### **Task 6:** TRANSFORM the dat to the star schema using CETAS
 
 
