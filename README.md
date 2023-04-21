@@ -58,6 +58,7 @@ Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)
 
 ### **Task 6:** TRANSFORM the dat to the star schema using CETAS
 
+![image](https://user-images.githubusercontent.com/58150666/233737505-e6f4596d-65cb-4daa-8bbe-4d0cbb13c434.png)
 
 [How do locate tables have created on PostgreSQL database.](https://knowledge.udacity.com/questions/952800)
 
