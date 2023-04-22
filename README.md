@@ -36,7 +36,7 @@ Relational ERD for the Divvy Bikeshare Dataset (with fake data tables)
 
 ### **Task 2:** Design a star schema
 
-![image](https://user-images.githubusercontent.com/58150666/233763090-f6bda079-e510-4684-ab0a-4350f80bc5c0.png)
+![image](https://user-images.githubusercontent.com/58150666/233763173-6a0d3faa-fec1-462f-8aca-46f509d96a6e.png)
 
 
 ### **Task 3:** Create the data in PostgresSQL
